@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+header a
+{
+    padding: 10px;
+    background-color: white;
+    color: blue;
+}
+header{
+    background-color: blue;
+    padding: 10px;
+}
+h1{
+     text-align: center;
+     background-color: aqua
+
+}
+footer{
+    padding: 10px;
+    margin: 10px;
+  background-color:cadetblue; 
+}
+nav{
+    padding: 10px;
+    margin: 10px;
+    background-color: darkgray;
+
+}
+nav a{
+    padding: 10px;
+    margin: 10px;
+    background-color:rgb(166, 151, 179);
+
+}
+.ainhoa{
+    background-color: palevioletred;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+background-color: palevioletred;
+padding: 10px;
+margin: 10px;
+}
+main a{background-color: palevioletred;
+padding: 10px;
+margin:10 px;
+
+}
